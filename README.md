@@ -2,10 +2,10 @@
 
 ## backend .env file
 
-MONGO_URI = [your mongo]
-PORT = 9999
-NODE_ENV = development
-JWT_SECRET = [your secret]
+- MONGO_URI = [your mongo]
+- PORT = 9999
+- NODE_ENV = development
+- JWT_SECRET = [your secret]
 
 # Notice
 
